@@ -1,0 +1,18 @@
+{
+  "name": "ruta-cafe",
+  "version": "1.0.0",
+  "description": "los mejores cafes",
+  "main": "index.js",
+  "scripts": {
+   "start": "./node_modules/.bin/nodemon index.js"
+  },
+  "author": "Angel",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
